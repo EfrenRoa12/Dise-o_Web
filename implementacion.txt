@@ -1,0 +1,7 @@
+toma de requeriientos
+	es una lista donde nos va a decir que es lo que quiere
+modelado de solucion de propuesta
+	de ahi proponer un sistema web etc
+implementacion de la solucion
+	ahi es donde lo lanzamos
+
